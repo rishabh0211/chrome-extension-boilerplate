@@ -8,5 +8,4 @@ document.body.append(rootEl);
 const root = createRoot(rootEl);
 
 const Test = <img src="icon.png" />;
-
 root.render(Test);
